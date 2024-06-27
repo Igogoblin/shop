@@ -16,6 +16,7 @@ const Footer = () => {
       <div className={styles.rights}>
         Developed by
         <a href="https://github.com/igogoblin" target="_blank" rel="noreferrer">
+          {" "}
           Ihar Skavysh
         </a>
       </div>
